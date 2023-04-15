@@ -1,0 +1,11 @@
+pragma solidity ^0.4.0;
+library L_{
+    function get4() public pure returns(uint) {
+        return 4;
+    }
+}
+library A_{
+    function get4() public pure returns(uint) {
+        return 3;
+    }
+}
