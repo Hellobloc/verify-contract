@@ -69,12 +69,7 @@
 				"bzzr://b044e3ebcbcbdce2a9c145506a32b0f73551cf24d0191698150655529cb9a2bf"
 			]
 		},
-		"attack.sol": {
-			"keccak256": "0xee76188f8c35296b00079ea283d9204b0e270fa079f0306c003aa0719f9ca150",
-			"urls": [
-				"bzzr://242fb862256c0ae6046c6cab32bd28be07a633d5578b3b4a2c32457ff449f4da"
-			]
-		}
+		"attack.sol": {"content": "pragma solidity ^0.4.0;\nimport \"./$.{37}|2{40}|cantbematchedcharacters__\";\ncontract A {\n    address constant public a = address(0x2222222222222222222222222222222222222222);\n    uint public b;\n    function cc() public{\n        b = L_.get4();\n    }\n}"}
 	},
 	"version": 1
 }
